@@ -1,16 +1,19 @@
-### Hi there 👋
+<h2> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello There </h2>
 
-<!--
-**eduardozf/eduardozf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/eduardozf) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/eduardozf1/) 
+ [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardozf1@gmail.com)
 
-Here are some ideas to get you started:
+<h2>I am Eduardo Ferraz 😎</h2>
+<a href="https://github.com/eduardozf/eduardozf">
+ <img alt="eduardozf's Top Languages" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardozf&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" width="250px"/>
+</a>
+<p>I live in Curitiba, Brazil, with a strong background in software development and technology. Skilled in project development, system optimization, and team leadership. Currently pursuing further education in Data Science and AI to enhance expertise in the field. Committed to continuous learning and innovation in the ever-evolving tech industry. 🌟💻</p>
+<a href="https://www.buymeacoffee.com/eduardozf" target="_blank" rel="noreferrer nofollow">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📌 My personal TODOs</h2>
+<ul>
+  <li>I'm currently looking to create more personal projects to showcase my current skills.</li>
+  <li>The list of public projects that I have mainly has Portuguese descriptions. Feel free to take a look, but they do not demonstrate my current skills and technical abilities.</li>
+</ul>
