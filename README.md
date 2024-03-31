@@ -12,7 +12,7 @@
   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
 
-<h2>📌 My personal TODOs</h2>
+<h2>📌 Notes</h2>
 <ul>
   <li>I'm currently looking to create more personal projects to showcase my current skills.</li>
   <li>The list of public projects that I have mainly has Portuguese descriptions. Feel free to take a look, but they do not demonstrate my current skills and technical abilities.</li>
