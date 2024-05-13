@@ -17,3 +17,6 @@
   <li>I'm currently looking to create more personal projects to showcase my current skills.</li>
   <li>The list of public projects that I have mainly has Portuguese descriptions. Feel free to take a look, but they do not demonstrate my current skills and technical abilities.</li>
 </ul>
+
+<h2>🟩 Contributions </h2>
+<p>Recently, I was cleaning up my GitHub and ended up leaving from some projects I had worked on in the past. However, I didn't realize that my contributions would be affected by that. It was all green squares, and now it's just memories. 😢</p>
