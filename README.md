@@ -22,4 +22,4 @@
 </ul>
 
 <h2>🟩 Contributions </h2>
-<p>Recently, I was cleaning up my GitHub and ended up leaving from some projects I had worked on in the past. However, I didn't realize that my contributions would be affected by that. It was all green squares, and now it's just memories. 😢</p>
+<p>Recently, I was cleaning up my GitHub and ended up leaving some projects I had worked on in the past. However, I didn't realize that my contributions would be affected by that. It was all green squares, and now it's just memories. 😢</p>
