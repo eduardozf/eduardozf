@@ -15,6 +15,11 @@
 <br/>
 <br/>
 
+<h2>🎨 Portfolio</h2>
+
+[Eduardo Ferraz - https://eduardo-ferraz.vercel.app](https://eduardo-ferraz.vercel.app/)
+
+<br/>
 <h2>📌 Notes</h2>
 <ul>
   <li>I'm currently looking to create more personal projects to showcase my current skills.</li>
