@@ -17,7 +17,7 @@
 
 <h2>🎨 Portfolio</h2>
 
-[Eduardo Ferraz - https://eduardo-ferraz.vercel.app](https://eduardo-ferraz.vercel.app/)
+[Eduardo Ferraz - https://ferraz.dev.br](https://ferraz.dev.br/)
 
 <br/>
 <h2>📌 Notes</h2>
